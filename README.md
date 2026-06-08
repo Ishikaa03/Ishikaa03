@@ -5,12 +5,12 @@
 
 <div align="center">
 
-<!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=190&section=header&text=Ishika%20Chaurasia&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Builder%20of%20Intelligent%20Products%20%E2%80%A2%20AI%2FML%20%C3%97%20Full-Stack&descSize=18&descAlignY=56" />
+<!-- ===== HEADER BANNER (pink-sky sunset, textured) ===== -->
+<img width="100%" src="https://raw.githubusercontent.com/Ishikaa03/Ishikaa03/main/assets/banner.svg" alt="Ishika Chaurasia — Builder of Intelligent Products" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://github.com/Ishikaa03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Builder+of+intelligent+products+%F0%9F%A7%A0;AI%2FML+%C3%97+Full-Stack+Developer;B.Tech+CSE+(AI+%26+ML)+%40+GL+Bajaj%2C+AKTU;From+training+the+model+to+shipping+the+app;700%2B+DSA+problems+and+counting+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FB7185&center=true&vCenter=true&width=720&lines=Builder+of+intelligent+products+%F0%9F%A7%A0;AI%2FML+%C3%97+Full-Stack+Developer;B.Tech+CSE+(AI+%26+ML)+%40+GL+Bajaj%2C+AKTU;From+training+the+model+to+shipping+the+app;700%2B+DSA+problems+and+counting+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -196,7 +196,7 @@ print("Let's build something intelligent together. 🤝")
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/Ishikaa03/Ishikaa03/main/assets/footer.svg" alt="" />
 
 <i>Curiosity in, intelligent products out. Thanks for stopping by — let's build. ✨</i>
 
